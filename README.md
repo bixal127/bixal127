@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋<br>
+- 🙋 I'm Bishal Lamichhane <br>
+- 🌱 I'm currently learning Javascript and ReactJs. <br>
+- 🔭 I'm proficient in HTML, CSS, Bootstrap. <br>
+- 🫴 How to reach me: 123lamichhane@gmail.com <br>
+
 
 <!--
 **bixal127/bixal127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
